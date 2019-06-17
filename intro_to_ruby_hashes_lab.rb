@@ -26,7 +26,7 @@ def read_from_hash(hash, key)
   # return the correct value using the hash and key parameters
   if hash[key]
     hash[key]
-  else 
+  else
     nil
   end
 end
